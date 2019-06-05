@@ -1,12 +1,6 @@
     1  git config --global user.name "arai"
     2  git config --global user.email "
-    3  cx
-    4  quit
-    5  bye;
-    6  exit;
-    7  quit!
-    8  exit;
-    9  bye
+    
    10  ls 
    11  cat lab_complete.py 
    12  ls
