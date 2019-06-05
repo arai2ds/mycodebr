@@ -32,9 +32,14 @@ def main():
             if results != "":
 
                # with open("serverresults.log","a") as svrlog:
+               logfile = server['ip'].replace(',','') +'.log'
+               with open(logfile,'a') as svrlog:
+                   print(svrlog)
+                   print('COMMAND ISSUES -', commandtoissue,file = svrlog)
+                   print(results,file=svrlog)
                #with open((server['ip]).replace(".","")+".log","a") "serverresults.log","a") as svrlog:
-
-                     print(results,file=svrlog)
+                   print('', file=svrlog)
+                     #print(results,file=svrlog)
 
 
         #close connection

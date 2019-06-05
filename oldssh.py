@@ -8,7 +8,7 @@ CMDLIST = ['touch sshworked.txt','touch sshworked2.ssh','uptime']
 
 def main():
     # harvest RSA key (ssh private key)
-     myprikey = paramiko.RSAKey.from_private_key_file("/home/student/.ssh/id_rsa")
+    myprikey = paramiko.RSAKey.from_private_key_file("/home/student/.ssh/id_rsa")
     
     # initiate connection to remote machine
 
