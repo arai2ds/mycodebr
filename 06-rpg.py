@@ -55,6 +55,17 @@ showInstructions()
 While True:
     
     showStatus()
+#get the player's next 'move'
+#.split() breaks it up into an list array 
+#eg typing 'go east' would give the list:
+#['go','east']
+move = ''
+while move == '';
+ move = input('>')
 
+move = move.lower().split()
+
+#if they type 'go' first
+if move[0] == 'go':
 
 
