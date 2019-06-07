@@ -1,12 +1,6 @@
     1  git config --global user.name "arai"
     2  git config --global user.email "
-    3  cx
-    4  quit
-    5  bye;
-    6  exit;
-    7  quit!
-    8  exit;
-    9  bye
+    
    10  ls 
    11  cat lab_complete.py 
    12  ls
@@ -90,7 +84,7 @@
    90  vi nasaapi.py
    91  python3 nasaapi.py
    92  git add * 
-   93  git * add
+   93 
    94  git add * 
    95  git push origin masters
    96  git add * 
