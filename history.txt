@@ -1,6 +1,12 @@
     1  git config --global user.name "arai"
     2  git config --global user.email "
-    
+    3  cx
+    4  quit
+    5  bye;
+    6  exit;
+    7  quit!
+    8  exit;
+    9  bye
    10  ls 
    11  cat lab_complete.py 
    12  ls
@@ -84,7 +90,7 @@
    90  vi nasaapi.py
    91  python3 nasaapi.py
    92  git add * 
-   93 
+   93  git * add
    94  git add * 
    95  git push origin masters
    96  git add * 
@@ -181,3 +187,374 @@
   187  cat history 
   188  history >>> history.txt
   189  history >> history.txt
+  190  cat history.txt
+  191  git add * 
+  192  commit -m "some ssh examples"
+  193  git commit -m "some ssh examples"
+  194  git push origin masters
+  195  git push origin master
+  196  cat history 
+  197  ls 
+  198  git clone https://github.com/arai2ds/mycodebr
+  199  ls -ltr 
+  200  git push origin masters
+  201  git push origin master
+  202  git push https://github.com/arai2ds/mycodebr master
+  203  git pull  https://github.com/arai2ds/mycodebr
+  204  n
+  205  ls 
+  206  cd mycoder
+  207  my codebr
+  208  cd mycodebr
+  209  ls -ltr 
+  210  vim 07-learningssh.py
+  211  cp 07-learningssh.py sshf.py
+  212  vim sshf.py 
+  213  python3 sshf.py
+  214  vim sshf.py 
+  215  python3 sshf.py
+  216  vim sshf.py 
+  217  python3 sshf.py
+  218  ls -ltr 
+  219  cat serverresults.log
+  220  vim -r 07-learningssh.py
+  221  python3  07-learningssh.py
+  222  ls -ltr 
+  223  cp oldssh.py 07-learningssh.py
+  224  ls -ltr 
+  225  vi 07-learningssh.py
+  226  vim 07-learningssh.py
+  227  vim oldssh.py
+  228  python3 sshf.py
+  229  vim sshf.py
+  230  python3 sshf.py
+  231  vim sshf.py
+  232  python3 sshf.py
+  233  vim sshf.py
+  234  python3 sshf.py
+  235  vim sshf.py
+  236  python3 -ignore W sshf.py
+  237  python3 -W ignore  sshf.py
+  238  ls 
+  239  cat serverresults.log
+  240  vim sshf.py
+  241  ls 
+  242  cd mycodebr
+  243  ls -ltr 
+  244  vim sshf.py
+  245  rm 07-learningssh.py
+  246  cp sshf.py 07-learningssh.py
+  247  vim cmds2issue.txt
+  248  vim 07-learningssh.py
+  249  rm 07-learningssh.py
+  250  cp sshf.py 07-learningssh.py
+  251  vim 07-learningssh.py
+  252  vim sshf.py
+  253  sshf.py
+  254  python3 sshf.py
+  255  vim sshf.py
+  256  python3 sshf.py
+  257  vim sshf.py
+  258  python3 sshf.py
+  259  vim sshf.py
+  260  python3 sshf.py
+  261  vim sshf.py
+  262  python3 sshf.py
+  263  cat serverresults.log
+  264  vim sshf.py
+  265  ls -ltr 
+  266  vim oldssh.py
+  267  vim sshf.py
+  268  ls 
+  269  cd mycodebr
+  270  ls 
+  271  vim sshf.py
+  272  ls -ltr 
+  273  vim -r sshf.py
+  274  vim sshf.py
+  275  ls -ltr .sshf*
+  276  cp .sshf* 08-learningssh.py
+  277  ls -ltr 
+  278  vim v
+  279  vim 08-learningssh.py
+  280  vim sshf.py
+  281  ls -ltr 
+  282  vim 10-learningssh.py
+  283  python -W ignore 10-learningssh.py
+  284  vim 10-learningssh.py
+  285  python -W ignore 10-learningssh.py
+  286  vim 10-learningssh.py
+  287  python -W ignore 10-learningssh.py
+  288  vim 10-learningssh.py
+  289  python -W ignore 10-learningssh.py
+  290  vim 10-learningssh.py
+  291  wget https://alta3.com/static/images/python/portsservice.xls
+  292  python3 -m pip install pyexcel,pyexcel-xls
+  293  python3 -m pip install pyexcel pyexcel-xls
+  294  vim 08-xcelreader.py
+  295  ls 
+  296  cd mycodebr
+  297  ls 
+  298  ls -ltr 
+  299  vim 08-readexcel.py
+  300  python3 08-readexcel.py
+  301  vim 08-readexcel.py
+  302  python3 08-readexcel.py
+  303  vim 08-readexcel.py
+  304  python3 08-readexcel.py
+  305  vim 08-readexcel.py
+  306  python3 08-readexcel.py
+  307  vim 08-readexcel.py
+  308  python3 08-readexcel.py
+  309  vim 10-learningssh.py
+  310  vim supercarcsv.py 
+  311  ls -ltr 
+  312  python3 sshf.py
+  313  vim 08-readcsv.py
+  314  cd mycodebr
+  315  ls 
+  316  vim readcsv.py
+  317  ls -ltr 
+  318  ls 
+  319  ls -ltr 
+  320  vim 10-csvtojason.py
+  321  ls 
+  322  cd mycodebr
+  323  ls -ltr 
+  324  vim readcsvtojson.py
+  325  ls -ltr 
+  326  vim readcsv.py
+  327  vim 10-learningssh.py
+  328  python3 10-learningssh.py
+  329  ls -ltr 
+  330  cat 10.10.2.4.log
+  331  vim 10-learningssh.py
+  332  cat 10.10.2.4.log
+  333  python3 10-learningssh.py
+  334  ls -ltr 
+  335  python3 10-learningssh.py
+  336  ls -ltr 
+  337  git add * 
+  338  git * add
+  339  git add * 
+  340  git commit -m 'Todays files'
+  341  git push origin master
+  342  vim learnflask.py
+  343  python3 -m pip install flask 
+  344  python3 learnflask.py
+  345  vim learnflask.py
+  346  python3 learnflask.py
+  347  vim learnflask.py
+  348  python3 learnflask.py
+  349  history 
+  350  git push https://github.com/arai2ds/mycodebr master
+  351  cd mycodebr
+  352  ls -ltr 
+  353  python3 learnflask.py
+  354  git add * 
+  355  history
+  356  ls 
+  357  cd mycodebr
+  358  ls -ltr 
+  359  cp learnflask.py 10-learnflask.py
+  360  python3 learnflask.py
+  361  vim 
+  362  vim 10-learnflask.py
+  363  ls -ltr 
+  364  cd mycodebr
+  365  ls -ltr 
+  366  vim postmaker.py
+  367  ls -ltr 
+  368  vim postmaker.html
+  369  vim 11-learnflask.py
+  370  ls 
+  371  cd mycodebr
+  372  ls -ltr 
+  373  vim 13-learnflask.py
+  374  python3 13-learnflask.py
+  375  vim 13-learnflask.py
+  376  python3 13-learnflask.py
+  377  vim 12=learnflask.py
+  378  touch 12.txt
+  379  vi 12.txt
+  380  ls -ltr 
+  381  vim 10-learnflask.py
+  382  vim 14-fourthflask.py
+  383  vim hellobasic.html
+  384  python3 14-fourthflask.py
+  385  cd mkdir templates
+  386  mkdir templates
+  387  mv hellobasic.html templates/
+  388  python3 14-fourthflask.py
+  389  cd templates
+  390  ls 
+  391  vim helloname.html
+  392  cd ..
+  393  vim 14-fourthflask.py
+  394  python3 14-fourthflask.py
+  395  cd templates
+  396  ls 
+  397  vim highscore.html
+  398  cd ..
+  399  vim 14-fourthflask.py
+  400  python3 14-fourthflask.py
+  401  vim 14-fourthflask.py
+  402  python3 14-fourthflask.py
+  403  vim 14-fourthflask.py
+  404  python3 14-fourthflask.py
+  405  vim 14-fourthflask.py
+  406  python3 14-fourthflask.py
+  407  vim 15-regexin.py
+  408  vim testcap.txt
+  409  python3 15-regexin.py
+  410  vim testcap.txt
+  411  vim 15-regexin.py
+  412  vim testcap.txt
+  413  python3 15-regexin.py
+  414  vim flaskuploader.py
+  415  python3 flaskuploader.py
+  416  vim flaskuploader.py
+  417  python3 flaskuploader.py
+  418  vim flaskuploader.py
+  419  python3 flaskuploader.py
+  420  cd template
+  421  cd templates
+  422  vim uploader.html
+  423  ls -ltr 
+  424  cd 
+  425  vim emailpassword.txt
+  426  ls -ltr 
+  427  pwd
+  428  cd mycodebr
+  429  ls -ltr 
+  430  vim 10-learnflask.py
+  431  ls test*
+  432  vim 10-learnflask.py
+  433  vim 12-learnflask.py
+  434  ls -ltr 
+  435  vim flaskuploader.py
+  436  python3 flaskuploader.py
+  437  vim flaskuploader.py
+  438  python3 flaskuploader.py
+  439  vim flaskuploader.py
+  440  python3 flaskuploader.py
+  441  vim flaskuploader.py
+  442  python3 flaskuploader.py
+  443  vim flaskuploader.py
+  444  python3 flaskuploader.py
+  445  vim flaskuploader.py
+  446  python3 flaskuploader.py
+  447  vim flaskuploader.py
+  448  python3 flaskuploader.py
+  449  vim flaskuploader.py
+  450  python3 flaskuploader.py
+  451  vim flaskuploader.py
+  452  python3 flaskuploader.py
+  453  vim flaskuploader.py
+  454  python3 flaskuploader.py
+  455  vim flaskuploader.py
+  456  python3 flaskuploader.py
+  457  cd mycodebr
+  458  ls -ltr 
+  459  history
+  460  git add * 
+  461  git commit -m "some flask code"
+  462  git push https://github.com/arai2ds/mycodebr master
+  463  git pull 
+  464  git pull https://github.com/arai2ds/mycodebr
+  465  ls -ltr
+  466  git push https://github.com/arai2ds/mycodebr master
+  467  ls 
+  468  cd mycodebr
+  469  vim 17-graphin.py
+  470  vim 16-graphin.py
+  471  python3 16-graphin.py
+  472  more 16-graphin.py
+  473  vim 16-graphin.py
+  474  python3 16-graphin.py
+  475  vim 16-graphin.py
+  476  python3 16-graphin.py
+  477  vim 16-graphin.py
+  478  python3 16-graphin.py
+  479  vim 16-graphin.py
+  480  python3 16-graphin.py
+  481  vim 16-graphin.py
+  482  python3 16-graphin.py
+  483  vim 16-graphin.py
+  484  ls
+  485  python3 16-graphin.py
+  486  vim 16-graphin.py
+  487  python3 16-graphin.py
+  488  ls -ltr 
+  489  vi flaskuploader.py
+  490  vi graphin.py
+  491  cd mycodebr
+  492  sudo apt install libreoffice-calc
+  493  ls -ltr
+  494  python3 16-graphin.py
+  495  python3 -m pipinstall numpy 
+  496  python3 -m pip install numpy 
+  497  python3 -m pip install matplotlib
+  498  ls -ltr 
+  499  vim flaskuploader.py
+  500  python3 flaskuploader.py
+  501  vim flaskuploader.py
+  502  python3 -m pip install pandas
+  503  ls -ltr 
+  504  grep -i uploader * 
+  505  cat 12-learnflask.py
+  506  s -ltr 
+  507  ls -ltr 
+  508  vi 14-fourthflask.py
+  509  vim flaskuploader.py
+  510  vim 16-graphin.py
+  511  cp 16-graphin.py graphin.py
+  512  more graphin.py
+  513  ls -ltr 
+  514  cat flaskuploader.py
+  515  vim flaskuploader.py
+  516  python3 flaskuploader.py
+  517  vim flaskuploader.py
+  518  python3 flaskuploader.py
+  519  cd mycodebr
+  520  ls -ltr 
+  521  vim flaskuploader.py
+  522  cd mycodebr
+  523  ls -ltr 
+  524  ls
+  525  vim 10-walmart.py 
+  526  rm *.swp
+  527  ls -la 10-walmart.py 
+  528  cd mycodebr
+  529  vim 10-walmart.py
+  530  python3 10-walmart.py
+  531  vim 10-walmart.py
+  532  python3 10-walmart.py
+  533  vim 10-walmart.py
+  534  python3 10-walmart.py
+  535  vim 10-walmart.py
+  536  python3 10-walmart.py
+  537  vim 10-walmart.py
+  538  python3 10-walmart.py
+  539  vim 10-walmart.py
+  540  python3 10-walmart.py
+  541  vim 10-walmart.py
+  542  python3 10-walmart.py
+  543  vim 10-walmart.py
+  544  python3 10-walmart.py
+  545  vim 10-walmart.py
+  546  python3 10-walmart.py
+  547  vim 10-walmart.py
+  548  python3 10-walmart.py
+  549  vim 10-walmart.py
+  550  python3 10-walmart.py
+  551  vim 10-walmart.py
+  552  vim 10-walmart.py~
+  553  vim 10-walmart.py
+  554  python3 10-walmart.py 
+  555  vim 10-walmart.py
+  556  cd mycodebr 
+  557  history 
+  558  ls -ltr 
+  559  git add * 
+  560  history > history.txt
